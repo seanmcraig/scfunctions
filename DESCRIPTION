@@ -1,0 +1,13 @@
+Package: scfunctions
+Version: 0.1
+Date:2018-10-25
+Title: Sean Craig's Assorted Functions
+Authors@R: person("Sean", Craig, email = "sean.craig@pitt.edu", role = c("aut", "cre"))
+Author: Sean Craig [aut, cre]
+Maintainer: Sean Craig <sean.craig@pitt.edu>
+Depends: R (>= 3.5.1)
+Description: This package contains an assortment of unrelated functions to accomplish various tasks as I require them. These include: (1) a function to compute the root(s) of quadratic expressions...
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
