@@ -4,7 +4,7 @@
 #' @param a The coefficient on x^2
 #' @param b The coefficient on x
 #' @param c The bare coefficient
-#' @examples
+#' @example
 #' quadratic(1,2,1)
 
 quadratic <- function(a, b, c){
