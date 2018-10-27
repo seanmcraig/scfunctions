@@ -3,7 +3,7 @@
 #' This function runs a user-determined number of iterations of the formula that defines the Mandelbrot set, f(z)=z^2+c, and renders the series in a vector.
 #' @param c The value of "c" in the above formula. Can take a properly-formatted complex number.
 #' @param n The number of times to iterate. Default is 0. The lenght of the output series will be n+1.
-#' @example 
+#' @examples 
 #' mbrot(.2+.3i,n=6)
 
 mbrot <- function(c, n=0) {
